@@ -1,0 +1,10 @@
+streamlit
+pypdf
+PyPDF2
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
